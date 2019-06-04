@@ -16,6 +16,31 @@ export class AppComponent {
       icon: 'home'
     },
     {
+      title: 'Meu perfil',
+      url: '/list',
+      icon: 'list'
+    },
+    {
+      title: 'Adversários',
+      url: '/list',
+      icon: 'list'
+    },
+    {
+      title: 'Amigos',
+      url: '/list',
+      icon: 'list'
+    },
+    {
+      title: 'Avaliações',
+      url: '/list',
+      icon: 'list'
+    },
+    {
+      title: 'Convites',
+      url: '/list',
+      icon: 'list'
+    },
+    {
       title: 'List',
       url: '/list',
       icon: 'list'
